@@ -50,10 +50,19 @@ perguntas que o pedido já respondeu. Modelo completo em
 10. Logo, imagens, B-roll, trilha. Tem os direitos de uso?
 11. Há trechos que precisam sair (erros, informação sensível) ou entrar obrigatoriamente (CTA, aviso legal)?
 
+Se o usuário pedir um estilo pelo nome ("estilo dos melhores do Instagram",
+"igual àqueles Reels editados com IA"), carregue §8 e pergunte só o que faltar,
+principalmente a cor de destaque da marca.
+
 **Quando o usuário não tiver identidade definida (6 a 9):** apresente uma
 tabela curta com **2 ou 3 combinações** tiradas de [presets.md](references/presets.md),
 escolhidas pelo cruzamento propósito × tipo, uma linha de justificativa cada,
-e indique qual você recomenda e por quê. Se ele tiver algum material de marca
+e indique qual você recomenda e por quê. Para conteúdo de alto impacto,
+anúncio ou lançamento com pessoa falando para a câmera, inclua entre as opções o
+**"Estilo dos melhores do Instagram"** ([presets.md](references/presets.md) §8):
+estrutura completa (gancho, legenda acumulativa, HUD "editando ao vivo", beats
+visuais a cada 2–4 s, end card), aplicada com a cor de destaque da marca do
+usuário. Avise que é o estilo mais caro em render e cota. Se ele tiver algum material de marca
 (logo, site, perfil), proponha a paleta a partir dele em vez de usar preset.
 
 ### 3. Confirmar o briefing
